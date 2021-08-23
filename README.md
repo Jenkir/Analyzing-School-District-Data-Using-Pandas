@@ -1,4 +1,4 @@
-# pandas-challenge
+# Analyzing School District Data Using Pandas
 
 The premise for this assignment was that I have been hired as the Chief Data Scientist for my city's school district. 
 As a first task, I have been asked to analyze the district-wide standardized test results. Data provided includes every student's math and reading scores, as well as  information on the schools they attend. My job is to aggregate the data to and showcase obvious trends in school performance.
